@@ -6,7 +6,7 @@ Cryptoformer is an application made for quick informing about the latest news, a
 
 You can follow a number of total cryptocurrencies, total Market cap, Total markets, and Total 24h volume, and if you are interested in more, you can explore every popular cryptocurrency.
 
-## Each Cryptocurrencie
+## Each Cryptocurrency
 
 If you are interested in a certain currency, you can just find it and list even more data. You can see price changes in periods you chose, in percentages, and also on the chart. Also, you can see the all-time high price, Market cap, Rank, Total supply, and Circulating supply. After that, if you want you can check a short resume about each cryptocurrency and visit links that will make your research way easier.
 
