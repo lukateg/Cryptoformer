@@ -2,6 +2,8 @@
 
 Cryptoformer is an application made for quick informing about the latest news, and changes in the crypto world.
 
+Hosted on - https://cryptoformer.netlify.app/
+
 ### Global Crypto Stats
 
 You can follow a number of total cryptocurrencies, total Market cap, Total markets, and Total 24h volume, and if you are interested in more, you can explore every popular cryptocurrency.
