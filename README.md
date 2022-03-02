@@ -22,4 +22,4 @@ Idea was to make a quite simple and useful app with real data, where I can show 
 
 ### Technology
 
-As for the technology, I used **React** with **Ant design** and some custom **CSS** for design. For the data I was using **RapidAPI** services with **Redux**, it was nice using RapidAPI services and they made this look way easier. Using Redux is something new for me that I am still exploring and learning, but with a few tutorials on youtube, work was done. For displaying percentage change over selected time I was using **Chart.js**, and those should be all important things that are used and implemented for this project.
+As for the technology, I used **React** with **Ant design** and some custom **CSS** for design. For the data I was using **RapidAPI** services with **Redux Toolkit Query**, it was nice using RapidAPI services and they made this look way easier. Using Redux is something new for me that I am still exploring and learning, but with a few tutorials on youtube, work was done. For displaying percentage change over selected time I was using **Chart.js**, and those should be all important things that are used and implemented for this project.
